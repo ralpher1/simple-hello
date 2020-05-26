@@ -1,0 +1,25 @@
+{
+  "name": "simple-hello-package",
+  "version": "1.0.3",
+  "description": "Hello-world package",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "test",
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralpher1/simple-hello.git"
+  },
+  "keywords": [
+    "hello",
+    "simple"
+  ],
+  "author": "rsd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ralpher1/simple-hello/issues"
+  },
+  "homepage": "https://github.com/ralpher1/simple-hello#readme"
+}
